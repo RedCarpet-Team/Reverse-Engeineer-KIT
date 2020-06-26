@@ -1,4 +1,4 @@
-![alt]([img]https://i.imgur.com/hwcxSG1.png[/img])
+![img](https://i.imgur.com/hwcxSG1.png)
 
 # Reverse-Engeineer-KIT
 Must read for team members
